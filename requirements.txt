@@ -1,0 +1,9 @@
+transformers
+Pillow
+gradio
+numpy
+torch
+torchvision
+timm
+seaborn
+opencv-python
